@@ -4,7 +4,7 @@
 Golden Waste SDA Hackathon
 </h3>
 
-This is a simple Java spring boot application build during SDA hackathon. Project aims to build a online portal for network of waste collection boxes. End goal is to make saudi arabia Leading country in controlling waste and recycling and raise the community awareness about recycling waste.
+This is a simple Java web application build during the SDA hackathon. Project aims to build a online portal for network of waste collection boxes. End goal is to make saudi arabia Leading country in controlling waste and recycling and raise the community awareness about recycling waste.
 
 <p align="center">
   <img src = "https://github.com/chandradeoarya/goldenwaste-sda-hackathon/blob/master/goldenwaste.gif?raw=true" width=600>
@@ -12,31 +12,23 @@ This is a simple Java spring boot application build during SDA hackathon. Projec
 
 ### Contributors
 
-#### Developers
-- Amal Alwadah
-- Danah Alsalman
-
 #### UI/UX
 - Amal Alhammad
 - Haya Alqahtani
 - Saud Bin Hazzaa
 
-#### Team1-ElasticBeanstalk
-- 
-- 
+#### Web Developers
+- Amal Alwadah
+- Danah Alsalman
 
-#### Team2-EC2withVPC
-- 
-- 
+#### DevOps Engineer 
+- Rawan Zabidi
 
-#### Team3-Kubernetes
-- 
-- 
+#### Data Science
+- Alhanouf Alsadan
 
-#### Team4-DockerCompose and swarm
-- 
-- 
+#### SQA
+- Alaa Tayran
 
-#### Team5-Docker and docker swarm
-- 
-- # goldenwaste
+#### Tech Sales
+- Yousef Albalwi
