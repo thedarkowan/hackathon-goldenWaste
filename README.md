@@ -13,8 +13,13 @@ This is a simple Java spring boot application build during SDA hackathon. Projec
 ### Contributors
 
 #### Developers
-- 
-- 
+- Amal Alwadah
+- Danah Alsalman
+
+#### UI/UX
+- Amal Alhammad
+- Haya Alqahtani
+- Saud Bin Hazzaa
 
 #### Team1-ElasticBeanstalk
 - 
